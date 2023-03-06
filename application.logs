@@ -1,0 +1,186 @@
+2023-03-05 21:31:02,538 [INFO] - __main__ -    grabs_folder:30 - folder named [C:\Users\User\Desktop\Test\accdb] was accepted
+2023-03-05 21:31:02,538 [INFO] - __main__ -    grabs_folder:30 - folder named [C:\Users\User\Desktop\Test\bmp] was accepted
+2023-03-05 21:31:02,539 [INFO] - __main__ -    grabs_folder:30 - folder named [C:\Users\User\Desktop\Test\docx] was accepted
+2023-03-05 21:31:02,539 [INFO] - __main__ -    grabs_folder:30 - folder named [C:\Users\User\Desktop\Test\кудптлду] was accepted
+2023-03-05 21:31:02,542 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:31:02,543 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:31:02,544 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:31:02,544 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:31:02,544 [INFO] - normalize -       normalize:101 - The file with name [ываавуфпфы.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:31:02,546 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:31:02,546 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:31:02,548 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:31:02,549 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:31:02,550 [INFO] - normalize -       normalize:101 - The file with name [атлотадльадцуу32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:32:06,473 [INFO] - __main__ -    grabs_folder:30 - folder named [accdb] was accepted
+2023-03-05 21:32:06,473 [INFO] - __main__ -    grabs_folder:30 - folder named [bmp] was accepted
+2023-03-05 21:32:06,473 [INFO] - __main__ -    grabs_folder:30 - folder named [docx] was accepted
+2023-03-05 21:32:06,473 [INFO] - __main__ -    grabs_folder:30 - folder named [кудптлду] was accepted
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [ываавуфпфы.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:32:06,483 [INFO] - normalize -       normalize:101 - The file with name [атлотадльадцуу32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:33:56,279 [INFO] - __main__ -    grabs_folder:30 - folder named [accdb] was accepted
+2023-03-05 21:33:56,279 [INFO] - __main__ -    grabs_folder:30 - folder named [bmp] was accepted
+2023-03-05 21:33:56,279 [INFO] - __main__ -    grabs_folder:30 - folder named [docx] was accepted
+2023-03-05 21:33:56,279 [INFO] - __main__ -    grabs_folder:30 - folder named [кудптлду] was accepted
+2023-03-05 21:33:56,289 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:33:56,289 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:33:56,289 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:33:56,289 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:33:56,289 [INFO] - normalize -       normalize:101 - The file with name [ываавуфпфы.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:33:56,289 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:33:56,289 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:33:56,289 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:33:56,289 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:33:56,299 [INFO] - normalize -       normalize:101 - The file with name [атлотадльадцуу32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:38:07,760 [INFO] - __main__ -    grabs_folder:30 - folder named [кудптлду] was accepted
+2023-03-05 21:38:07,762 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:38:07,763 [INFO] - normalize -       normalize:101 - The file with name [ываавуфпфы.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:38:07,765 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:38:07,766 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:38:07,767 [INFO] - normalize -       normalize:101 - The file with name [атлотадльадцуу32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:38:38,815 [INFO] - __main__ -    grabs_folder:30 - folder named [accdb] was accepted
+2023-03-05 21:38:38,817 [INFO] - __main__ -    grabs_folder:30 - folder named [bmp] was accepted
+2023-03-05 21:38:38,817 [INFO] - __main__ -    grabs_folder:30 - folder named [docx] was accepted
+2023-03-05 21:38:38,817 [INFO] - __main__ -    grabs_folder:30 - folder named [кудптлду] was accepted
+2023-03-05 21:38:38,817 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:38:38,817 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:38:38,817 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:38:38,817 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:38:38,817 [INFO] - normalize -       normalize:101 - The file with name [ываавуфпфы.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:38:38,817 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:38:38,827 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:38:38,827 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:38:38,827 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:38:38,827 [INFO] - normalize -       normalize:101 - The file with name [атлотадльадцуу32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:38:48,786 [INFO] - __main__ -    grabs_folder:30 - folder named [кудптлду] was accepted
+2023-03-05 21:38:48,786 [INFO] - normalize -       normalize:101 - The file with name [ываавуфпфы.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:38:48,786 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:38:48,786 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:38:48,786 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:38:48,786 [INFO] - normalize -       normalize:101 - The file with name [атлотадльадцуу32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:39:44,550 [INFO] - __main__ -    grabs_folder:30 - folder named [ываавуфпфы.docx] was accepted
+2023-03-05 21:39:44,550 [INFO] - __main__ -    grabs_folder:30 - folder named [кудптлду] was accepted
+2023-03-05 21:39:44,550 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:39:44,550 [INFO] - normalize -       normalize:101 - The file with name [ываавуфпфы.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:39:44,560 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:39:44,560 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:39:44,560 [INFO] - normalize -       normalize:101 - The file with name [атлотадльадцуу32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:40:05,487 [INFO] - __main__ -    grabs_folder:30 - folder named [ываавуфпфы.docx] was accepted
+2023-03-05 21:40:05,487 [INFO] - __main__ -    grabs_folder:30 - folder named [кудптлду] was accepted
+2023-03-05 21:40:05,487 [INFO] - normalize -       normalize:101 - The file with name [ываавуфпфы.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:40:05,487 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:40:05,487 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:40:05,487 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:40:05,487 [INFO] - normalize -       normalize:101 - The file with name [атлотадльадцуу32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:42:46,981 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:42:46,981 [INFO] - normalize -       normalize:101 - The file with name [ываавуфпфы.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:42:46,983 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:42:46,985 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:42:46,986 [INFO] - normalize -       normalize:101 - The file with name [атлотадльадцуу32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:47:08,250 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:47:08,250 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:47:08,250 [INFO] - __main__ -       copy_file:41 - file named [C:\Users\User\Desktop\Test\кудптлду\atlotadl'adcuu32.docx] has been moved to folder [C:\Users\User\Desktop\Test\docx]
+2023-03-05 21:47:08,250 [INFO] - __main__ -       copy_file:41 - file named [C:\Users\User\Desktop\Test\aaa.docx] has been moved to folder [C:\Users\User\Desktop\Test\docx]
+2023-03-05 21:47:08,250 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:47:08,250 [INFO] - __main__ -       copy_file:41 - file named [C:\Users\User\Desktop\Test\bjbk.accdb] has been moved to folder [C:\Users\User\Desktop\Test\accdb]
+2023-03-05 21:47:08,250 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:47:08,250 [INFO] - __main__ -       copy_file:41 - file named [C:\Users\User\Desktop\Test\ewfwe.bmp] has been moved to folder [C:\Users\User\Desktop\Test\bmp]
+2023-03-05 21:47:08,250 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:47:08,250 [INFO] - __main__ -       copy_file:41 - file named [C:\Users\User\Desktop\Test\yvaavufpfy.docx] has been moved to folder [C:\Users\User\Desktop\Test\docx]
+2023-03-05 21:48:58,476 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:48:58,476 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:48:58,476 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:48:58,476 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:48:58,476 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:49:32,865 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:49:32,865 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:49:32,865 [INFO] - __main__ -       copy_file:41 - file named [atlotadl'adcuu32.docx] has been moved to folder [docx]
+2023-03-05 21:49:32,865 [INFO] - __main__ -       copy_file:41 - file named [aaa.docx] has been moved to folder [docx]
+2023-03-05 21:49:32,865 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:49:32,865 [INFO] - __main__ -       copy_file:41 - file named [bjbk.accdb] has been moved to folder [accdb]
+2023-03-05 21:49:32,865 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:49:32,865 [INFO] - __main__ -       copy_file:41 - file named [ewfwe.bmp] has been moved to folder [bmp]
+2023-03-05 21:49:32,865 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:49:32,875 [INFO] - __main__ -       copy_file:41 - file named [yvaavufpfy.docx] has been moved to folder [docx]
+2023-03-05 21:50:36,626 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:50:36,626 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:50:36,626 [INFO] - __main__ -       copy_file:41 - file named [aaa.docx] has been moved to folder [docx]
+2023-03-05 21:50:36,626 [INFO] - __main__ -       copy_file:41 - file named [atlotadl'adcuu32.docx] has been moved to folder [docx]
+2023-03-05 21:50:36,626 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:50:36,636 [INFO] - __main__ -       copy_file:41 - file named [bjbk.accdb] has been moved to folder [accdb]
+2023-03-05 21:50:36,636 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:50:36,636 [INFO] - __main__ -       copy_file:41 - file named [ewfwe.bmp] has been moved to folder [bmp]
+2023-03-05 21:50:36,636 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:50:36,636 [INFO] - __main__ -       copy_file:41 - file named [yvaavufpfy.docx] has been moved to folder [docx]
+2023-03-05 21:50:36,636 [INFO] - __main__ - delete_empty_folder:53 - folder [C:\Users\User\Desktop\Test\кудптлду] has been deleted
+2023-03-05 21:52:23,786 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:52:23,786 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:52:23,786 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:52:23,786 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:52:23,786 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:52:55,600 [INFO] - normalize -       normalize:101 - The file with name [bjbk.accdb] has been changed to [bjbk.accdb]
+2023-03-05 21:52:55,600 [INFO] - normalize -       normalize:101 - The file with name [ewfwe.bmp] has been changed to [ewfwe.bmp]
+2023-03-05 21:52:55,600 [INFO] - normalize -       normalize:101 - The file with name [aaa.docx] has been changed to [aaa.docx]
+2023-03-05 21:52:55,600 [INFO] - normalize -       normalize:101 - The file with name [atlotadl'adcuu32.docx] has been changed to [atlotadl'adcuu32.docx]
+2023-03-05 21:52:55,600 [INFO] - normalize -       normalize:101 - The file with name [yvaavufpfy.docx] has been changed to [yvaavufpfy.docx]
+2023-03-05 21:52:55,600 [INFO] - __main__ - delete_empty_folder:53 - folder [C:\Users\User\Desktop\Test\wew] has been deleted
+2023-03-05 22:03:07,014 [INFO] - __main__ -             tmp:12 - Время выполнения функции: 0.000000
+2023-03-05 22:03:30,070 [INFO] - __main__ -             tmp:12 - Время выполнения функции: 0.003013
+2023-03-05 22:03:35,442 [INFO] - __main__ -             tmp:12 - Время выполнения функции: 0.000000
+2023-03-05 22:03:39,059 [INFO] - __main__ -             tmp:12 - Время выполнения функции: 0.000000
+2023-03-05 22:07:01,603 [INFO] - __main__ -         wrapper:14 - Время выполнения функции: 0.000000
+2023-03-05 22:07:46,544 [INFO] - __main__ -         wrapper:14 - Время выполнения функции: %f {round(time.time()-t)}
+2023-03-05 22:07:57,589 [INFO] - __main__ -         wrapper:14 - Время выполнения функции: %f 0
+2023-03-05 22:08:22,271 [INFO] - __main__ -         wrapper:14 - Время выполнения функции: 0.0
+2023-03-05 22:09:44,341 [INFO] - __main__ -         wrapper:14 - Время выполнения функции: 0.0
+2023-03-05 22:10:49,117 [INFO] - __main__ -         wrapper:14 - Время выполнения функции: 0.53179
+2023-03-05 22:11:13,314 [INFO] - __main__ -         wrapper:14 - Время выполнения функции: 0.5111103058
+2023-03-05 22:14:31,918 [INFO] - factorize -         wrapper:14 - Function execution time: 0.531781435
+2023-03-05 22:18:13,167 [INFO] - factorize -         wrapper:14 - Function execution time: 0.0
+2023-03-05 22:18:31,989 [INFO] - factorize -         wrapper:14 - Function execution time: 0.0010015965
+2023-03-05 22:18:47,027 [INFO] - factorize -         wrapper:14 - Function execution time: 0.515401125
+2023-03-05 22:18:55,980 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5115115643
+2023-03-05 22:26:22,969 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5281114578
+2023-03-05 22:26:37,315 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5220582485
+2023-03-05 22:26:37,488 [INFO] - factorize -     create_list:33 - [SpawnPoolWorker-1]: 128
+2023-03-05 22:26:37,489 [INFO] - factorize -     create_list:33 - [SpawnPoolWorker-1]: 255
+2023-03-05 22:26:37,498 [INFO] - factorize -     create_list:33 - [SpawnPoolWorker-1]: 99999
+2023-03-05 22:26:38,010 [INFO] - factorize -     create_list:33 - [SpawnPoolWorker-3]: 10651060
+2023-03-05 22:26:38,029 [INFO] - factorize -         wrapper:14 - Function execution time: 0.7136254311
+2023-03-05 22:33:18,688 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5163567066
+2023-03-05 22:33:19,209 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5212545395
+2023-03-05 22:41:22,619 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5976188183
+2023-03-05 22:41:23,122 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5036225319
+2023-03-05 22:44:57,749 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5239021778
+2023-03-05 22:44:58,276 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5266098976
+2023-03-05 22:47:19,439 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5247817039
+2023-03-05 22:47:19,604 [INFO] - factorize -         wrapper:14 - Function execution time: 0.0
+2023-03-05 22:47:19,605 [INFO] - factorize -         wrapper:14 - Function execution time: 0.0
+2023-03-05 22:47:19,614 [INFO] - factorize -         wrapper:14 - Function execution time: 0.0075221062
+2023-03-05 22:47:20,125 [INFO] - factorize -         wrapper:14 - Function execution time: 0.5180602074
+2023-03-05 22:47:20,148 [INFO] - factorize -         wrapper:14 - Function execution time: 0.7092871666
+2023-03-05 22:48:58,307 [INFO] - factorize -         wrapper:14 - Function execution time: 0.4888575077
+2023-03-05 22:49:47,410 [INFO] - factorize -         wrapper:14 - Function execution time: 0.4911801815
+2023-03-05 22:49:47,558 [INFO] - factorize -         wrapper:14 - Function execution time: 0.0
+2023-03-05 22:49:47,558 [INFO] - factorize -         wrapper:14 - Function execution time: 0.0
+2023-03-05 22:49:47,567 [INFO] - factorize -         wrapper:14 - Function execution time: 0.0080075264
+2023-03-05 22:49:48,048 [INFO] - factorize -         wrapper:14 - Function execution time: 0.4842329025
+2023-03-05 22:49:48,079 [INFO] - factorize -         wrapper:14 - Function execution time: 0.6698069572
+2023-03-05 22:51:36,102 [INFO] - factorize -         wrapper:14 - Function execution time: 0.6744816303
+2023-03-05 22:55:15,562 [INFO] - factorize -        <module>:27 - Function execution time without processes: 0.5246760845184326
+2023-03-05 22:55:16,261 [INFO] - factorize -        <module>:31 - Function execution time with processes: 0.6992030143737793
+2023-03-05 22:56:18,161 [INFO] - factorize -        <module>:27 - Function execution time without processes: 0.49225783348083496
+2023-03-05 22:56:18,922 [INFO] - factorize -        <module>:31 - Function execution time with processes: 0.7601191997528076
+2023-03-05 22:58:09,897 [INFO] - factorize -        <module>:32 - Function execution time without processes: 0.5350830554962158
+2023-03-05 22:58:57,705 [INFO] - factorize -        <module>:32 - Function execution time without processes: 0.5850343704223633
+2023-03-05 22:58:58,455 [INFO] - factorize -        <module>:36 - Function execution time with processes: 0.7506566047668457
+2023-03-05 23:01:17,977 [INFO] - factorize -        <module>:31 - Function execution time without processes: 0.5682361125946045
+2023-03-05 23:01:18,817 [INFO] - factorize -        <module>:35 - Function execution time with processes: 0.83994460105896
